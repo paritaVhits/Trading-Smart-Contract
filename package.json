@@ -1,0 +1,25 @@
+{
+  "name": "tradingplatform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paritavyas/TradingMarkeplace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paritavyas/TradingMarkeplace/issues"
+  },
+  "homepage": "https://github.com/paritavyas/TradingMarkeplace#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "hardhat": "^2.14.0"
+  }
+}
